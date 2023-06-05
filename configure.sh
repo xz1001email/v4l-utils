@@ -1,0 +1,1 @@
+./configure --prefix=/home/xiao/work/repo/v4l-utils/_install --host=aarch64-linux-gnu CC=/usr/local/linaro-aarch64-2018.08-gcc8.2/bin/aarch64-linux-gnu-gcc CXX=/usr/local/linaro-aarch64-2018.08-gcc8.2/bin/aarch64-linux-gnu-g++ LIBS=-lm --without-libudev --without-jpeg
